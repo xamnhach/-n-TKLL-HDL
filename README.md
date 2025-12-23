@@ -1,6 +1,6 @@
 # 🔐 Đồ Án: Hệ Thống Ổ Khóa Điện Tử Thông Minh (Smart Door Lock)
 
-Dự án thiết kế hệ thống khóa cửa thông minh sử dụng vi điều khiển **ESP32**, kết hợp bảo mật mật mã qua bàn phím cảm ứng, quản lý từ xa qua App **Blynk** và đồng bộ dữ liệu lên **Cloud**.
+Dự án thiết kế hệ thống khóa cửa thông minh sử dụng vi điều khiển **ESP32**, kết hợp bảo mật mật mã qua bàn phím cảm ứng, quản lý từ xa qua App **Blynk**.
 
 ---
 
@@ -21,9 +21,8 @@ Dự án thiết kế hệ thống khóa cửa thông minh sử dụng vi điề
 * **Động cơ:** Servo SG90 (Mô phỏng chốt cửa).
 * **Phụ kiện:** Đèn LED trạng thái.
 
-## 📺 Demo & Báo cáo
+## 📺 Demo & Báo cáo & Code
 * **Video Demo sản phẩm:** [Xem tại đây]([https://drive.google.com/file/d/19KoV1095K_jjL295RKRCHVGJ1paQmWhU/view?usp=sharing](https://drive.google.com/file/d/19KoV1095K_jjL295RKRCHVGJ1paQmWhU/view?usp=drive_link))
-* **Tài liệu chi tiết:** Xem file `Đồ_Án_TKLL.pdf` trong kho lưu trữ này.
 
 ## 👥 Thành viên thực hiện
 **Nhóm sinh viên Lớp L05 - ĐH Bách Khoa TP.HCM:**
